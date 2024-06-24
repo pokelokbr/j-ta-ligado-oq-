@@ -3,7 +3,7 @@ local discordLink = 'https://discord.gg/FMtKcpabkZ'
 local uniqueKey = game:HttpGet'https://pastebin.com/raw/fFHiwNQT';
 
 local thescript = [[
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pokelokbr/Porcohub/main/script%20feito"))()
+    loadstring(game:HttpGet("https://alphageek.online/geradordekeys.php"))()
 ]]
 
 local gui = Instance.new("ScreenGui")
