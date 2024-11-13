@@ -4,7 +4,7 @@ local uniqueKey = game:HttpGet('https://alphageek.online/gomuhubkeypagaaa.php')
 local filePath = "Untitled.txt"  -- Caminho para salvar a chave localmente
 
 local thescript = [[
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pokelokbr/Porcohub/main/script%20feito"))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/pokelokbr/j-ta-ligado-oq-/refs/heads/main/gm2'))()
 ]]
 
 -- Funções para manipular o arquivo da chave
